@@ -1,0 +1,80 @@
+
+أهم الأسئلة:
+
+• إيه هو PHP؟ وليه لحد دلوقتي بيستخدم في مشاريع كتير؟
+• إيه الفرق بين PHP و JavaScript؟
+Lifecycle بتاع PHP Request بيشتغل إزاي؟
+• إيه الفرق بين GET و POST؟
+• إيه الفرق بين include و require؟
+• إمتى تستخدم include_once و require_once؟
+• إيه الفرق بين == و ===؟
+• إيه الفرق بين echo و print؟
+• إيه هو Session؟ وإيه الفرق بين Session و Cookie؟
+• إزاي تمنع Session Hijacking؟
+• إيه هو Output Buffering؟
+• إيه هو Composer؟ وليه مهم؟
+• إيه هو PSR؟ وليه بنلتزم بيه؟
+• إيه هو Autoloading؟
+• إيه هو Namespace؟
+• إيه الفرق بين Abstract Class و Interface؟
+• إيه الفرق بين Trait و Inheritance؟
+• إيه هو Dependency Injection؟
+• إيه هي SOLID Principles؟
+• إيه هو MVC؟
+• إيه هو ORM؟
+• إيه الفرق بين Raw SQL و ORM؟
+• إيه هو PDO؟ وليه أفضل من mysqli؟
+• إزاي تمنع SQL Injection؟
+• إزاي تمنع XSS؟
+• إيه هو CSRF؟ وإزاي تمنعه؟
+• إيه هو Password Hashing؟ وليه نستخدم password_hash()؟
+• إيه الفرق بين Authentication و Authorization؟
+• إزاي تطبق JWT Authentication؟
+• إيه الفرق بين Access Token و Refresh Token؟
+• إيه هو REST API؟
+• إيه هي HTTP Status Codes المهمة؟
+• إيه الفرق بين PUT و PATCH؟
+• إيه هو Rate Limiting؟
+• إيه هو Caching؟
+• إمتى تستخدم Redis؟
+• إيه الفرق بين Redis و Memcached؟
+• إيه هو Queue؟ وإمتى تستخدم RabbitMQ أو Redis Queue؟
+• إيه هو Cron Job؟
+• إيه هو File Upload Security؟
+• إزاي تتعامل مع Large File Uploads؟
+• إيه الفرق بين Monolithic و Microservices؟
+• إيه أشهر Design Patterns في PHP؟
+• إيه هو Repository Pattern؟
+• إيه هو Service Layer؟
+• إيه هو Dependency Container؟
+• إيه الفرق بين Unit Testing و Integration Testing؟
+• إزاي تستخدم PHPUnit؟
+• إيه هو Docker؟ وليه مهم لمطور PHP؟
+• إزاي تعمل Deploy لتطبيق PHP بشكل احترافي؟
+
+💡 ولو كنت شغال Laravel، لازم كمان تراجع:
+
+• Service Providers
+• Service Container
+• Facades
+• Middleware
+• Eloquent ORM
+• Resource Controllers
+• API Resources
+• Queues & Jobs
+• Events & Listeners
+• Notifications
+• Broadcasting
+• Scheduling
+• Policies & Gates
+• Sanctum & Passport
+• Caching
+• Redis
+• Horizon
+• Telescope
+• Blade
+• Livewire أو Inertia
+• Database Transactions
+• Form Requests
+• Validation
+• Exception Handling
